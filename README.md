@@ -3,9 +3,9 @@
 a.	Unidos do SBP (Grupo), logo...<br>
 b.	Desenvolvimento Ágil, 2023, 2° semestre<br>
 c.	- Beatriz Cristina de Faria<br>
-    - Felipe Bueno de Souza
-    - Gustavo Luiz Conceição Zago
-    - Messias Xavier Magalhães
+    - Felipe Bueno de Souza<br>
+    - Gustavo Luiz Conceição Zago<br>
+    - Messias Xavier Magalhães<br>
 d.	Marketplace de verduras para aproximar o consumidor dos melhores produtores.<br>
 e.	Documentos que serão encontrados no repositório (criaremos links para cada documento como se fosse um sumário). Por enquanto, deixem sem link: <br>
 
