@@ -4,8 +4,12 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
+| RF01 |              O usuário devera selecionar se deseja utilizar o aplicativo como.           |  ALTA      |             |
 | RF01 |              O usuário devera criar sua conta antes de acessar.           |  ALTA      |             |
-
+| RF01 |              O usuário devera criar sua conta antes de acessar.           |  ALTA      |             |
+| RF01 |              O usuário devera criar sua conta antes de acessar.           |  ALTA      |             |
+| RF01 |              O usuário devera criar sua conta antes de acessar.           |  ALTA      |             |
+| RF01 |              O usuário devera criar sua conta antes de acessar.           |  ALTA      |             |
 
 <p style="text-align: center; width:100%">Tabela 1: Requisitos Funcionais</p>
 
