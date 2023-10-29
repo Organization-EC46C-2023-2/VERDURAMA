@@ -4,8 +4,8 @@
 
 | ID   |  Requisito NF | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :---:| :-----------: |:-------------: | :--------: | :---------------------: |
-| RF01 |  O usuário deverá criar sua carteira digital de pagamento dentro para finalizar as compras. | Produto/Usabilidade |Alta  |     |
-| RF02 |  O usuário deve ser capaz de realizar o pagamento via saldo na carteira ou via pix. | Produto/Usabilidade |Alta | RF01 |
+| RF01 |  O usuário poderá criar sua carteira digital de pagamento dentro para finalizar as compras. | Produto/Usabilidade |Alta  |     |
+| RF02 |  O usuário deve ser capaz de realizar o pagamento via saldo na carteira (com os cupons) ou via pix, cartão de crédito, cartão de débito e dinheiro. | Produto/Usabilidade |Alta | RF01 |
 | RF03 |  O usuário podera adicionar saldo via deposito PIX, carteira virtual (Apple Pay, Samsung Pay, Google Pay etc.), ou por cartões presentes (Gift Cards). | Produto/Usabilidade |Alta | RF01 |
 | RF04 |  Os itens adicionados as sacola/carrinho deverão ser apenas de um produtor/vendedor. | Produto |Alta  |     |
 | RF05 |  A sacola não deve aceitar adicionar produtos de outros vendedores caso na estejam vazios. | Produto/Usabilidade |Alta  |  RF04 |
