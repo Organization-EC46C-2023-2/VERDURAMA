@@ -11,7 +11,7 @@
 | RF05 | O usuário comprador poderá revisar os itens a serem comprados, tal como remover, editar ou adicionar novos.|    ALTA    |RF03 RF04|
 | RF07 | O usuário comprador poderá rastrear o pedido, caso o vendedor mantenha sua localização ativa.              |    ALTA    |RF14     |
 | RF08 | O usuário comprador poderá ver um histórico de suas ultimas compras, e o vendedor de suas ultimas vendas.  |    MEDIA   |         |
-| RF09 | O usuário comprador poderá avaliar sua ultima compra, bem como o vendedor no geral.                        |    MEDIA   |RF18     |
+| RF09 | O usuário comprador poderá avaliar sua ultima compra.                                                      |    MEDIA   |RF18     |
 | RF10 | O aplicativo deverá poder acessar a localização do usuário, para que apareça os vendedores mais proximos.  |    ALTA    |RF03     |
 | RF11 | O usuário comprador poderá escolher se deseja retirar seu produto ou se o mesmo deverá ser entregue a ele. |    ALTA    |RF13     |
 | RF12 | O usuário vendedor poderá montar sua loja, adicionando item por item, indicando preços, fotos, e descrição.|    ALTA    |         |
