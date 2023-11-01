@@ -22,6 +22,8 @@
 | RF17 | O usuario vendedor poderá notificar o comprador, avisando que o produto está indo ser entregue.            |    ALTA    |RF14     |
 | RF18 | O aplicativo poderá rastrear a localização do vendedor, quando este avisar que o produto está em entrega.  |    ALTA    |RF14     |
 | RF19 | O usuario vendedor poderá ver os comentarios e avaliações de sua loja, podendo respondê-los se necessário. |    BAIXA   |RF09     |
+| RF20 | O usuario cliente criará suas contas a partir de contas pré existentes, mais especificamente, irão se conectar no aplicativo com contas do google ou facebook. |   
+| RF21 | O usuario vendedor criará sua conta por meio de um cadastro, adicionando seus dados bancários para recebimento, e passara por uma validação de conta. |  MÉDIA   |     |
 
 <p style="text-align: center; width:100%">Tabela 1: Requisitos Funcionais</p>
 
